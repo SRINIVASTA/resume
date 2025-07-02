@@ -36,7 +36,7 @@ Logistic regression and decision trees with 80%+ accuracy
 
 ## 📄 Resume
 
-📄 [Download My Resume (PDF)](https://github.com/SRINIVASTA/resume/blob/main/Appala_Srinivas_Tanakala_Resume.pdf) *(Upload it to a `resume` repo if not done yet)*
+📄 [Download My Resume (PDF)](https://github.com/SRINIVASTA/resume/blob/main/CV.pdf) *(Upload it to a `resume` repo if not done yet)*
 
 ---
 
